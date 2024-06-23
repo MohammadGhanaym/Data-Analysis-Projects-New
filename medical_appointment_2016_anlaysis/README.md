@@ -34,11 +34,6 @@ The dataset used in this analysis is sourced from [Kaggle - No-show appointments
 - **Same-Day Appointments**: Patients attending same-day appointments have high attendance rates and do not rely heavily on SMS reminders.
 - **Neighborhood**: Certain neighborhoods exhibit higher attendance rates, highlighting the need for targeted interventions in areas with lower attendance.
 
-## Usage
-
-- Clone the repository: `git clone https://github.com/yourusername/medical-appointment-analysis.git`
-- Explore the analysis notebooks and code.
-
 ## Files Included
 
 - `age_by_No_show.png`: Chart showing age distribution by appointment attendance.
